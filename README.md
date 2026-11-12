@@ -1,8 +1,5 @@
 # Generative AI with LangChain 🚀
 
-\
-
-
 ## 📌 About This Repository
 
 This repository documents my learning journey through **Generative AI with LangChain**, following the [CampusX YouTube course](https://www.youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0).
