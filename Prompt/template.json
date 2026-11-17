@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "length_input",
+        "paper_input",
+        "style_input"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\nYou are an expert academic research assistant.\n\nAnalyze the following research paper:\n\nResearch Paper: {paper_input}\n\nExplanation Style: {style_input}\n\nExplanation Length: {length_input}\n\nProvide a structured research analysis covering:\n\n1. Research Objective\n2. Problem Statement\n3. Proposed Methodology\n4. Dataset Used\n5. Key Findings and Results\n6. Research Contributions\n7. Limitations\n8. Potential Future Research Directions\n\nInstructions:\n- Use clear academic language.\n- Follow the selected explanation style.\n- Follow the selected explanation length.\n- Avoid making up information.\n- If information is unavailable, explicitly mention it.\n",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}
