@@ -79,32 +79,32 @@ It contains my learning notes, Python implementations, code experiments, and han
 Generative-AI-with-LangChain/
 │
 ├── 01_LangChain_Fundamentals/
-│   ├── introduction.ipynb
-│   ├── langchain_components.ipynb
-│   ├── models.ipynb
-│   ├── prompts.ipynb
-│   ├── structured_output.ipynb
-│   ├── output_parsers.ipynb
-│   ├── chains.ipynb
-│   └── runnables.ipynb
+│   ├── introduction
+│   ├── langchain_components
+│   ├── models
+│   ├── prompts
+│   ├── structured_output
+│   ├── output_parsers
+│   ├── chains
+│   └── runnables
 │
 ├── 02_Document_Processing/
-│   ├── document_loaders.ipynb
-│   ├── text_splitters.ipynb
-│   └── embeddings.ipynb
+│   ├── document_loaders
+│   ├── text_splitters
+│   └── embeddings
 │
 ├── 03_Vector_Databases/
-│   ├── vector_stores.ipynb
-│   └── retrievers.ipynb
+│   ├── vector_stores
+│   └── retrievers
 │
 ├── 04_RAG/
-│   ├── rag_fundamentals.ipynb
+│   ├── rag_fundamentals
 │   └── youtube_chatbot/
 │
 ├── 05_Tools_and_Agents/
-│   ├── tools.ipynb
-│   ├── tool_calling.ipynb
-│   └── ai_agent.ipynb
+│   ├── tools
+│   ├── tool_calling
+│   └── ai_agent
 │
 ├── projects/
 │
